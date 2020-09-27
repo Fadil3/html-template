@@ -13,3 +13,7 @@
 .input{
     margin-top: 5px;
 }
+
+textarea{
+    height: 150px;
+}
